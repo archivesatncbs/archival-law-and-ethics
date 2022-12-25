@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchivesatncbs_ale=self.webpackChunkarchivesatncbs_ale||[]).push([[546],{8840:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/archival-law-and-ethics/blog/tags/hello","allTagsPath":"/archival-law-and-ethics/blog/tags","count":2}')}}]);
