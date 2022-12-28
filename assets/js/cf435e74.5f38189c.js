@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchivesatncbs_ale=self.webpackChunkarchivesatncbs_ale||[]).push([[2566],{3417:e=>{e.exports=JSON.parse('{"permalink":"/archives-ethics-law/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

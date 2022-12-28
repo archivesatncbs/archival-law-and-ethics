@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchivesatncbs_ale=self.webpackChunkarchivesatncbs_ale||[]).push([[6134],{9479:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/archives-ethics-law/blog/tags/hello","allTagsPath":"/archives-ethics-law/blog/tags","count":2}')}}]);
